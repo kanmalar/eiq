@@ -18,7 +18,7 @@ This section describes how to mitigate potential risks arising from Wi-Fi snoopi
 
 When you encrypt your Wi-Fi router, it becomes very difficult for a snooper to gain access to your device through an open network. Avoid WEP and use WPA or WPA2 to secure your network in your router and ensure that make sure that all the devices that need to access your network can use it. WPA2 is the most secure option. Most of the latest routers have WPA2 enabled by default. For more information about encrypting your Wi-Fi network, see, [Wi-Fi Protected Access](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access).
 
-**Note:** Device OS vulnerabilities may allow snoopers to completely bypass that encryption.
+**Note:** Device OS vulnerabilities might allow snoopers to completely bypass router encryption.
 
 ## Change the Router Administrator Credentials Periodically
 
