@@ -16,13 +16,13 @@ This section describes how to mitigate potential risks arising from Wi-Fi snoopi
 
 ## Encrypt your Wi-Fi Router
 
-When you encrypt your Wi-Fi router, it becomes very difficult for a snooper to gain access to your device through an open network. Avoid WEP and use WPA or WPA2 to secure your network in your router and ensure that make sure that all the devices that need to access your network can use it. WPA2 is the most secure option. Most of the latest routers have WPA2 enabled by default. For more information about encrypting your Wi-Fi network, see, [Wi-Fi Protected Access](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access).
+When you encrypt your Wi-Fi router, it becomes very difficult for a snooper to gain access to your device through an open network. Avoid WEP and use WPA or WPA2 to secure your network in your router and ensure that that all the devices that must access your network can use it. WPA2 is the most secure option in your router. Most of the latest routers have WPA2 enabled by default. For more information about encrypting your Wi-Fi network, see, [Wi-Fi Protected Access](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access).
 
 **Note:** Device OS vulnerabilities might allow snoopers to completely bypass router encryption.
 
 ## Change the Router Administrator Credentials Periodically
 
-Change your default router administrator password and username regularly. Ensure to change the default administrator usernames and passwords of routers. They are widely known and can be used by anyone.
+Change your default router administrator username and password regularly. Ensure to change the default administrator username and password of routers. They are widely known and can be used by anyone.
 
 ## Disable SSID Broadcasting
 
@@ -34,4 +34,4 @@ You can setup your network to allow only devices that you authorize to connect u
 
 ## Avoid Risky Apps
 
-Do not install or use vulnerable or dubious apps in your devices. Ensure that the apps are secure and are from reputed developers.
+Do not install vulnerable or dubious apps in your devices. Ensure that the apps are secure and are from reputed developers.
