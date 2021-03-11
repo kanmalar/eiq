@@ -1,4 +1,6 @@
-# **Malar’s comments**
+
+#Exercise 1
+## **Malar’s comments**
 The intent of this content is unclear and I would clarify the following from the Subject Matter Experts (SMEs). Once I get to know the product and the technology, I should have the necessary information to take a call independently and would not seek help from SMEs unnecessarily.
 
 - What is the intent and who is it written for?
@@ -18,20 +20,20 @@ The intent of this content is unclear and I would clarify the following from the
 - How the tool matches the names with other fields within a database and across databases and how it decides it is a match?
 - How the tool eliminates the records and how it is foolproof.
 - Explain an actual use case and provide that in the document as appropriate.
-# **Preface**
+## **Preface**
 This document describes the Contact Mapping tool and how to use it. It has the following chapters:
 
 - Chapter 1: Introduction to Contact Mapping Tool
 - TBD
 
-# **Chapter 1: Introduction to Contact Mapping Tool**
+## **Chapter 1: Introduction to Contact Mapping Tool**
 This chapter introduces the Contact Mapping Tool. It has the following sections:
 
 - Introduction
 - How Contact Mapping Tool Works?
 - Benefits of Contact Mapping Tool
 
-# **Introduction**
+## **Introduction**
 Databases are growing in size and complexity by the day. Framing the search terms and queries to search a database is also getting complex and difficult.
 
 Consider a scenario where you are tasked to search a list of names and associated email addresses and company names that could potentially have millions of records. The following could be a few  issues that you might face:
@@ -45,7 +47,7 @@ Consider a scenario where you are tasked to search a list of names and associate
 The complexity of searching and matching the associated data increases with the number of people entering that data into the databases or other sources that are fed to the databases. When more people enter the data, chances are that they are inconsistent in entering the data and there are variations between different databases for the same set of information, leading to an increased time and effort in searching names and other related fields like emails and company names, within and across databases.
 
 The Contact Mapping Tool offers a solution to you in such scenarios, where searching a related set of information becomes tedious.
-# **How Contact Mapping Tool Works?**
+## **How Contact Mapping Tool Works?**
 The Contact Mapping Tool uses a rules-based, computerized data processing mechanism to assist you in mapping your contact names with other fields across databases and enables you to find a specific contact or contacts accurately using a multi-field search or search criteria.
 
 Though the tool uses a powerful mechanism to search, there are limitations to what the tool can do. When the entered data is inconsistent with the same name or any other field spelled differently between records and databases, it becomes difficult to find the data that you want. In such cases, the tool:
