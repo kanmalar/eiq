@@ -1,5 +1,5 @@
 
-# **Exercise 1**
+# **Exercise 1 - Contact Mapping Tool**
 ## **Malar’s comments**
 The intent of this content is unclear and I would clarify the following from the Subject Matter Experts (SMEs). Once I get to know the product and the technology, I should have the necessary information to take a call independently and would not seek help from SMEs unnecessarily.
 
