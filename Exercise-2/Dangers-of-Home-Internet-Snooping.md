@@ -1,67 +1,37 @@
+# What Is Home Internet Connection Snooping?
 
-# **Exercise 1**
-## **Malar’s comments**
-The intent of this content is unclear and I would clarify the following from the Subject Matter Experts (SMEs). Once I get to know the product and the technology, I should have the necessary information to take a call independently and would not seek help from SMEs unnecessarily.
+Your home Internet Connection can be vulnerable to snooping by miscreants who can then gain access to:
 
-- What is the intent and who is it written for?
-- What is the scope of this document?
-- Is this about the Contact Mapping Tool or generally about optimizing search in databases? I would decide the heading and narrative based on that. I have written a few sections with the scope of the tool as contact mapping as the name suggests though the content doesn’t establish that.
-- Confirm the name of the tool: Contact Mapping Tool. Is the focus on Contacts and Mapping only?
-- Is the scope of the tool restricted to databases only? What type of database and what could be the size? Instead of vague numbers like “millions of records”, if possible, provide some context and relatable and precise numbers.
-- Is it a search tool or a query tool?
+- Your network
+- Files on the connected devices within that network
+- Apps in your phone and other devises
+- Your bank account and credit card details
+- Your usernames and passwords
 
-**Will seek help from SMEs to:**
+Snooping could potentially occur when you allow your guests to connect to your home Wi-Fi network, or when you leave your Wi-Fi network open. Anyone who has access to your home Wi-Fi SSID can gain access to your network if it open and discoverable.
 
-- Standardize terminologies and content. For example, normalizing encompasses removing duplication, the term, “matching” is used in a confusing way, is the tool mapping?
-- Clarify if the tool actually does “data processing”?
-- Remove contradicting and conflicting information. For example, “The complexity of the matching and searching of the data is directly proportional to the amount of human involvement in the processing of said data”.
-- Make the problem statement and the intended solution clearer. It is not clearly stated what the tool actually does and what it is “mapping”. For example, "The list that you have and that you are searching should have the names, emails, and company names mapped". Does the tool search for combinations of names, email addresses, companies and so forth? The tool cannot address the issue of the inconsistency in humans feeding the data into the database. Example: "the more people create the data, the more variations and differences there can be".
-- If information is present in different databases, there should be a key field that connects all. We cannot say that the tool will address that. We should have the problem statement correct.
-- How the tool matches the names with other fields within a database and across databases and how it decides it is a match?
-- How the tool eliminates the records and how it is foolproof.
-- Explain an actual use case and provide that in the document as appropriate.
-## **Preface**
-This document describes the Contact Mapping tool and how to use it. It has the following chapters:
+# How to Mitigate Wi-Fi Snooping Risks?
 
-- Chapter 1: Introduction to Contact Mapping Tool
-- TBD
+This section describes how to mitigate potential risks arising from Wi-Fi snooping.
 
-## **Chapter 1: Introduction to Contact Mapping Tool**
-This chapter introduces the Contact Mapping Tool. It has the following sections:
+## Encrypt your Wi-Fi Router
 
-- Introduction
-- How Contact Mapping Tool Works?
-- Benefits of Contact Mapping Tool
+When you encrypt your Wi-Fi router, it becomes very difficult for a snooper to gain access to your device through an open network. Avoid WEP and use WPA or WPA2 to secure your network in your router and ensure that make sure that all the devices that need to access your network can use it. WPA2 is the most secure option. Most of the latest routers have WPA2 enabled by default. For more information about encrypting your Wi-Fi network, see, [Wi-Fi Protected Access](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access).
 
-## **Introduction**
-Databases are growing in size and complexity by the day. Framing the search terms and queries to search a database is also getting complex and difficult.
+**Note:** Device OS vulnerabilities may allow snoopers to completely bypass that encryption.
 
-Consider a scenario where you are tasked to search a list of names and associated email addresses and company names that could potentially have millions of records. The following could be a few  issues that you might face:
+## Change the Router Administrator Credentials Periodically
 
-- The names that you search might be in different databases.
-- The related information might be present in different databases. For example, names and emails could be in one database and the company names could be in another database.
-- Each database might contain millions of records and you might not know the scope of your effort.
-- You cannot be certain about the number of records present for the names that you are searching and whether you have found all the instances.
-- The names in your list and fields in the databases might not be exactly the same and might be inconsistent. For example, the names in the list that you have might be nicknames, Mike or Mick for Michael, or sometimes, the first name might sound like a nickname, as in, Mike Portsworth.
+Change your default router administrator password and username regularly. Ensure to change the default administrator usernames and passwords of routers. They are widely known and can be used by anyone.
 
-The complexity of searching and matching the associated data increases with the number of people entering that data into the databases or other sources that are fed to the databases. When more people enter the data, chances are that they are inconsistent in entering the data and there are variations between different databases for the same set of information, leading to an increased time and effort in searching names and other related fields like emails and company names, within and across databases.
+## Disable SSID Broadcasting
 
-The Contact Mapping Tool offers a solution to you in such scenarios, where searching a related set of information becomes tedious.
-## **How Contact Mapping Tool Works?**
-The Contact Mapping Tool uses a rules-based, computerized data processing mechanism to assist you in mapping your contact names with other fields across databases and enables you to find a specific contact or contacts accurately using a multi-field search or search criteria.
+A Service Set Identifier (SSID) is a sequence of characters that uniquely identifies your Wi-Fi network. It usually is named in a way to easily identify you or your network and your router broadcasts it. If a snooper knows the SSID, and can see it, the snooper can break into your network. Rename the default SSID and then disable SSID broadcasting so that your Wi-Fi is not visible to others.
 
-Though the tool uses a powerful mechanism to search, there are limitations to what the tool can do. When the entered data is inconsistent with the same name or any other field spelled differently between records and databases, it becomes difficult to find the data that you want. In such cases, the tool:
+## Set MAC Address Filtering
 
-- Pre-processes the data.
-- Normalizes the data by way of removing duplicates and redundant data.
-- Eliminates irrelevant records based on the search criteria.
-- Presents a lesser number of records it cannot eliminate for further processing .
-- Sorts and presents the data in the required format.
-- Enables human screening and deciphering the records that are relevant and not eliminated.
-## **Benefits of Contact Mapping Tool**
-There are many benefits in using the Contact Mapping Tool:
+You can setup your network to allow only devices that you authorize to connect using MAC address filtering. Every device that connects to your Wi-Fi network has a unique MAC address.
 
-- Reduces the amount of human intervention.
-- Reduces costs and resources.
-- Increases efficiency and enables your employees or colleagues to focus on more productive and value-added efforts.
+## Avoid Risky Apps
 
+Do not install or use vulnerable or dubious apps in your devices. Ensure that the apps are secure and are from reputed developers.
