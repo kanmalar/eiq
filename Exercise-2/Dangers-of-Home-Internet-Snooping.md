@@ -8,7 +8,7 @@ Your home Internet Connection can be vulnerable to snooping by miscreants who ca
 - Your bank account and credit card details
 - Your usernames and passwords
 
-Snooping could potentially occur when you allow your guests to connect to your home Wi-Fi network, or when you leave your Wi-Fi network open. Anyone who has access to your home Wi-Fi SSID can gain access to your network if it open and discoverable.
+Snooping could potentially occur when you allow your guests to connect to your home Wi-Fi network, or when you leave your Wi-Fi network open. Anyone who has access to your home Wi-Fi SSID can gain access to your network if it is open and discoverable.
 
 # How to Mitigate Wi-Fi Snooping Risks?
 
