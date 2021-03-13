@@ -19,13 +19,13 @@ Contains questions and comments from Malar.
 
 Provides the background and why the Contact Mapping Tool was developed.
 
-* [Categories](xref:en/contact-mapping-tool/introduction)
+* [Introduction](xref:en/contact-mapping-tool/introduction)
 
 ## 2. How Contact Mapping Tool Works?
 
 Describes how the Contact Mapping Tool works.
 
-* [Categories](xref:en/contact-mapping-tool/how-it-works)
+* [How it works?](xref:en/contact-mapping-tool/how-it-works)
 
 ## 3. Benefits of Contact Mapping Tool
 
